@@ -1,0 +1,11 @@
+.from {
+    border: 1px solid #ccc;
+    display: inline-flex;
+}
+img#flag {
+    width: 40px;
+}
+select#from {
+    border: none;
+    outline: none;
+}
